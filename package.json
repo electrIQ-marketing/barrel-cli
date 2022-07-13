@@ -29,10 +29,7 @@
     "webpack-hot-middleware": "^2.22.3"
   },
   "peerDependencies": {
-    "gulp": "^3.9.1",
-    "webpack": "^4.16.2"
-  },
-  "devDependencies": {
-    "mini-css-extract-plugin": "^1.6.2"
+    "webpack": "^4.16.2",
+    "gulp": "^3.9.1"
   }
 }
