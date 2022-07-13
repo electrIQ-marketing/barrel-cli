@@ -1,4 +1,4 @@
-const path = require('path')
+const path = require('path');
 
 module.exports = {
   devtool: 'cheap-module-source-map',
@@ -44,4 +44,4 @@ module.exports = {
     },
   },
   plugins: [],
-}
+};

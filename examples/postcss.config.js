@@ -16,6 +16,6 @@ const config = {
     require('postcss-hexrgba'),
     require('postcss-automath')
   ]
-}
+};
 
-module.exports = config
+module.exports = config;

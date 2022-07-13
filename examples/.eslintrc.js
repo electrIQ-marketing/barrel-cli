@@ -1,5 +1,5 @@
-const OFF = 0
-const ERROR = 2
+const OFF = 0;
+const ERROR = 2;
 
 module.exports = {
   "extends": ["standard"],
@@ -9,4 +9,4 @@ module.exports = {
     "no-extra-boolean-cast": OFF,
     "import/first": OFF
   }
-}
+};
